@@ -1,0 +1,239 @@
+9:00
+Пациент Patient_1 к врачу Doctor_1
+Пациент Patient_2 к врачу Doctor_2
+Пациент Patient_3 к врачу Doctor_3
+Пациент Patient_5 к врачу Doctor_4
+Пациент Patient_8 к врачу Doctor_5
+Пациент Patient_9 к врачу Doctor_6
+Пациент Patient_11 к врачу Doctor_7
+Пациент Patient_12 к врачу Doctor_8
+Пациент Patient_6 к врачу Doctor_9
+Пациент Patient_7 к врачу Doctor_10
+Пациент Patient_4 к врачу Doctor_11
+Пациент Patient_10 к врачу Doctor_12
+Пациент Patient_13 к врачу Doctor_13
+Пациент Patient_14 к врачу Doctor_14
+Пациент Patient_15 к врачу Doctor_15
+Пациент Patient_17 к врачу Doctor_16
+Пациент Patient_18 к врачу Doctor_17
+Пациент Patient_16 к врачу Doctor_18
+
+9:30
+Пациент Patient_5 к врачу Doctor_1
+Пациент Patient_10 к врачу Doctor_2
+Пациент Patient_16 к врачу Doctor_3
+Пациент Patient_1 к врачу Doctor_4
+Пациент Patient_3 к врачу Doctor_5
+Пациент Patient_12 к врачу Doctor_6
+Пациент Patient_9 к врачу Doctor_7
+Пациент Patient_8 к врачу Doctor_8
+Пациент Patient_11 к врачу Doctor_9
+Пациент Patient_15 к врачу Doctor_10
+Пациент Patient_2 к врачу Doctor_11
+Пациент Patient_7 к врачу Doctor_12
+Пациент Patient_4 к врачу Doctor_13
+Пациент Patient_6 к врачу Doctor_14
+Пациент Patient_13 к врачу Doctor_15
+Пациент Patient_18 к врачу Doctor_16
+Пациент Patient_14 к врачу Doctor_17
+
+10:00
+Пациент Patient_2 к врачу Doctor_1
+Пациент Patient_1 к врачу Doctor_2
+Пациент Patient_5 к врачу Doctor_3
+Пациент Patient_3 к врачу Doctor_4
+Пациент Patient_9 к врачу Doctor_5
+Пациент Patient_8 к врачу Doctor_6
+Пациент Patient_12 к врачу Doctor_7
+Пациент Patient_11 к врачу Doctor_8
+Пациент Patient_15 к врачу Doctor_9
+Пациент Patient_6 к врачу Doctor_10
+Пациент Patient_7 к врачу Doctor_11
+Пациент Patient_4 к врачу Doctor_12
+Пациент Patient_10 к врачу Doctor_13
+Пациент Patient_13 к врачу Doctor_14
+Пациент Patient_14 к врачу Doctor_15
+Пациент Patient_18 к врачу Doctor_18
+
+10:30
+Пациент Patient_3 к врачу Doctor_1
+Пациент Patient_5 к врачу Doctor_2
+Пациент Patient_1 к врачу Doctor_3
+Пациент Patient_6 к врачу Doctor_4
+Пациент Patient_11 к врачу Doctor_5
+Пациент Patient_14 к врачу Doctor_6
+Пациент Patient_8 к врачу Doctor_7
+Пациент Patient_9 к врачу Doctor_8
+Пациент Patient_12 к врачу Doctor_9
+Пациент Patient_16 к врачу Doctor_10
+Пациент Patient_10 к врачу Doctor_11
+Пациент Patient_2 к врачу Doctor_12
+Пациент Patient_7 к врачу Doctor_13
+Пациент Patient_4 к врачу Doctor_14
+Пациент Patient_17 к врачу Doctor_15
+Пациент Patient_15 к врачу Doctor_16
+
+11:00
+Пациент Patient_6 к врачу Doctor_1
+Пациент Patient_3 к врачу Doctor_2
+Пациент Patient_8 к врачу Doctor_3
+Пациент Patient_9 к врачу Doctor_4
+Пациент Patient_1 к врачу Doctor_5
+Пациент Patient_5 к врачу Doctor_6
+Пациент Patient_14 к врачу Doctor_7
+Пациент Patient_15 к врачу Doctor_8
+Пациент Patient_16 к врачу Doctor_9
+Пациент Patient_11 к врачу Doctor_10
+Пациент Patient_18 к врачу Doctor_11
+Пациент Patient_2 к врачу Doctor_13
+Пациент Patient_7 к врачу Doctor_14
+Пациент Patient_4 к врачу Doctor_15
+Пациент Patient_10 к врачу Doctor_18
+
+11:30
+Пациент Patient_8 к врачу Doctor_1
+Пациент Patient_9 к врачу Doctor_2
+Пациент Patient_11 к врачу Doctor_3
+Пациент Patient_12 к врачу Doctor_4
+Пациент Patient_5 к врачу Doctor_5
+Пациент Patient_1 к врачу Doctor_6
+Пациент Patient_3 к врачу Doctor_7
+Пациент Patient_16 к врачу Doctor_8
+Пациент Patient_18 к врачу Doctor_9
+Пациент Patient_14 к врачу Doctor_10
+Пациент Patient_6 к врачу Doctor_11
+Пациент Patient_15 к врачу Doctor_12
+Пациент Patient_17 к врачу Doctor_13
+Пациент Patient_10 к врачу Doctor_14
+Пациент Patient_2 к врачу Doctor_15
+Пациент Patient_7 к врачу Doctor_16
+
+12:00
+Пациент Patient_10 к врачу Doctor_1
+Пациент Patient_8 к врачу Doctor_2
+Пациент Patient_9 к врачу Doctor_3
+Пациент Patient_11 к врачу Doctor_4
+Пациент Patient_12 к врачу Doctor_5
+Пациент Patient_3 к врачу Doctor_6
+Пациент Patient_1 к врачу Doctor_7
+Пациент Patient_5 к врачу Doctor_8
+Пациент Patient_18 к врачу Doctor_10
+Пациент Patient_15 к врачу Doctor_11
+Пациент Patient_6 к врачу Doctor_12
+Пациент Patient_17 к врачу Doctor_14
+Пациент Patient_7 к врачу Doctor_15
+Пациент Patient_2 к врачу Doctor_17
+Пациент Patient_14 к врачу Doctor_18
+
+12:30
+Пациент Patient_11 к врачу Doctor_1
+Пациент Patient_13 к врачу Doctor_2
+Пациент Patient_12 к врачу Doctor_3
+Пациент Patient_8 к врачу Doctor_4
+Пациент Patient_14 к врачу Doctor_5
+Пациент Patient_15 к врачу Doctor_6
+Пациент Patient_5 к врачу Doctor_7
+Пациент Patient_1 к врачу Doctor_8
+Пациент Patient_3 к врачу Doctor_9
+Пациент Patient_9 к врачу Doctor_10
+Пациент Patient_16 к врачу Doctor_11
+Пациент Patient_18 к врачу Doctor_12
+Пациент Patient_6 к врачу Doctor_13
+Пациент Patient_10 к врачу Doctor_15
+Пациент Patient_7 к врачу Doctor_17
+Пациент Patient_2 к врачу Doctor_18
+
+13:00
+Пациент Patient_13 к врачу Doctor_1
+Пациент Patient_11 к врачу Doctor_2
+Пациент Patient_15 к врачу Doctor_3
+Пациент Patient_14 к врачу Doctor_4
+Пациент Patient_18 к врачу Doctor_5
+Пациент Patient_17 к врачу Doctor_7
+Пациент Patient_3 к врачу Doctor_8
+Пациент Patient_1 к врачу Doctor_9
+Пациент Patient_5 к врачу Doctor_10
+Пациент Patient_8 к врачу Doctor_11
+Пациент Patient_9 к врачу Doctor_12
+Пациент Patient_6 к врачу Doctor_15
+Пациент Patient_2 к врачу Doctor_16
+Пациент Patient_7 к врачу Doctor_18
+
+13:30
+Пациент Patient_14 к врачу Doctor_1
+Пациент Patient_15 к врачу Doctor_2
+Пациент Patient_13 к врачу Doctor_3
+Пациент Patient_16 к врачу Doctor_4
+Пациент Patient_11 к врачу Doctor_6
+Пациент Patient_18 к врачу Doctor_7
+Пациент Patient_17 к врачу Doctor_8
+Пациент Patient_5 к врачу Doctor_9
+Пациент Patient_1 к врачу Doctor_10
+Пациент Patient_9 к врачу Doctor_11
+Пациент Patient_8 к врачу Doctor_15
+Пациент Patient_3 к врачу Doctor_17
+Пациент Patient_12 к врачу Doctor_18
+
+14:00
+Пациент Patient_15 к врачу Doctor_1
+Пациент Patient_18 к врачу Doctor_2
+Пациент Patient_17 к врачу Doctor_3
+Пациент Patient_13 к врачу Doctor_4
+Пациент Patient_8 к врачу Doctor_9
+Пациент Patient_5 к врачу Doctor_11
+Пациент Patient_11 к врачу Doctor_12
+Пациент Patient_1 к врачу Doctor_13
+Пациент Patient_9 к врачу Doctor_14
+Пациент Patient_12 к врачу Doctor_15
+
+14:30
+Пациент Patient_18 к врачу Doctor_1
+Пациент Patient_15 к врачу Doctor_4
+Пациент Patient_13 к врачу Doctor_5
+Пациент Patient_9 к врачу Doctor_9
+Пациент Patient_8 к врачу Doctor_10
+Пациент Patient_11 к врачу Doctor_11
+Пациент Patient_5 к врачу Doctor_13
+Пациент Patient_1 к врачу Doctor_14
+Пациент Patient_16 к врачу Doctor_15
+
+15:00
+Пациент Patient_18 к врачу Doctor_3
+Пациент Patient_15 к врачу Doctor_5
+Пациент Patient_9 к врачу Doctor_13
+Пациент Patient_5 к врачу Doctor_14
+Пациент Patient_11 к врачу Doctor_15
+Пациент Patient_1 к врачу Doctor_18
+
+15:30
+Пациент Patient_18 к врачу Doctor_4
+Пациент Patient_15 к врачу Doctor_7
+Пациент Patient_11 к врачу Doctor_13
+Пациент Patient_5 к врачу Doctor_15
+
+16:00
+Пациент Patient_18 к врачу Doctor_6
+Пациент Patient_15 к врачу Doctor_13
+Пациент Patient_11 к врачу Doctor_14
+Пациент Patient_9 к врачу Doctor_15
+
+16:30
+Пациент Patient_18 к врачу Doctor_8
+Пациент Patient_15 к врачу Doctor_14
+Пациент Patient_11 к врачу Doctor_16
+
+17:00
+Пациент Patient_18 к врачу Doctor_13
+Пациент Patient_11 к врачу Doctor_17
+Пациент Patient_15 к врачу Doctor_18
+
+17:30
+Пациент Patient_18 к врачу Doctor_14
+Пациент Patient_15 к врачу Doctor_17
+Пациент Patient_11 к врачу Doctor_18
+
+18:00
+Пациент Patient_18 к врачу Doctor_15
+
+Всего рабочих дней 1
+Все приёмы пациентов закончатся в 18:30

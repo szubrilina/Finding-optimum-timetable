@@ -1,0 +1,39 @@
+﻿Сборка начата 16.11.2019 21:54:58.
+     1>Проект "C:\Users\user\Desktop\Архив\Клики\ШВБ IT-прорыв\День_Здоровья\SFML - for GitHub\SFML\SFML.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\SFML-2.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYNAMIC /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SFML.cpp
+         SFML.cpp
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(33): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(105): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(126): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(159): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(162): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(167): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(170): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(216): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(223): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(223): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(231): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(239): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(246): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(249): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(253): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(254): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(420): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(427): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(434): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(443): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(450): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(457): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(461): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\архив\клики\швб it-прорыв\день_здоровья\sfml - for github\sfml\sfml.cpp(463): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Desktop\Архив\Клики\ШВБ IT-прорыв\День_Здоровья\SFML - for GitHub\Debug\SFML.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\SFML-2.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Desktop\Архив\Клики\ШВБ IT-прорыв\День_Здоровья\SFML - for GitHub\Debug\SFML.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Desktop\Архив\Клики\ШВБ IT-прорыв\День_Здоровья\SFML - for GitHub\Debug\SFML.lib" /MACHINE:X86 Debug\SFML.obj
+         SFML.vcxproj -> C:\Users\user\Desktop\Архив\Клики\ШВБ IT-прорыв\День_Здоровья\SFML - for GitHub\Debug\SFML.exe
+     1>Сборка проекта "C:\Users\user\Desktop\Архив\Клики\ШВБ IT-прорыв\День_Здоровья\SFML - for GitHub\SFML\SFML.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.22

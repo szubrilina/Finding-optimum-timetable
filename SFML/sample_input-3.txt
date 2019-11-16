@@ -1,0 +1,213 @@
+100 20
+Doc_Borisof 1
+Doc_Andreef 2
+Doc_Boef 3
+Doc_Tolstof 4
+Doc_Golybov 5
+Doc_Borisof 6
+Doc_Andreef 7
+Doc_Boef 8
+Doc_Tolstof 9
+Doc_Golybov 10
+Doc_Borisof 11
+Doc_Andreef 12
+Doc_Boef 13
+Doc_Tolstof 14
+Doc_Golybov 15
+Doc_Borisof 16
+Doc_Andreef 17
+Doc_Boef 18
+Doc_Tolstof 19
+Doc_Golybov 20
+Zubrilina 1
+Perveevih 2
+Pokashalov 3 
+Shmailovih 4
+Batracova 5
+Grednevih 6
+Aleninovih 7
+Kyznezovih 8
+Shamaevish 9
+Kovershenko 10
+Borisof 11
+Andreef 12
+Boef 13
+Tolstof 14
+Golybov 15
+Borisof 16
+Andreef 17
+Boef 18
+Tolstof 19
+mcjhvfb 20
+Zubrillina 21
+Perrveevih 22
+Pokasalova 23 
+Shimakovih 24
+Batrakovih 25
+Grednevih 26
+Aleninovih 27
+Kyznezovih 28
+Shamaevish 29
+Shahkina 30
+Zubrilina 31
+Perveevih 32
+Pokashalov 33 
+Shmailovih 34
+Batracova 35
+Grednevih 36
+Aleninovih 37
+Kyznezovih 38
+Shamaevish 39
+Shahkina 40
+Zubrilina 41
+Perveevih 42
+Pokashov 43 
+Shmlovih 44
+Baracova 45
+Gredneih 46
+Aleninoh 47
+Kyznevih 48
+Shafvish 49
+xhjcdhv 50
+Zubrilina 51
+Perveevih 52
+Pokashalov 53 
+Shmailovih 54
+Batracova 55
+Grednevih 56
+Aleninovih 57
+Kyznezovih 58
+Shamaevish 59
+Kovershenko 60
+Borisof 61
+Andreef 62
+Boef 63
+Tolstof 64
+Golybov 65
+Borisof 66
+Andreef 67
+Boef 68
+Tolstof 69
+Shamaeva 70
+Zubrilina 71
+Perveevih 72
+Pokashalov 73 
+Shmailovih 74
+Batracova 75
+Grednevih 76
+Aleninovih 77
+Kyznezovih 78
+Shamaevish 79
+Shahkin 80
+Zubrilina 81
+Perveevih 82
+Pokashalov 83 
+Shmailovih 84
+Batracova 85
+Grednevih 86
+Aleninovih 87
+Kyznezovih 88
+Shamaevish 89
+Shahkin 90
+Zubrilina 91
+Perveevih 92
+Pokashalov 93 
+Shmailovih 94
+Batracova 95
+Grednevih 96
+Aleninovih 97
+Kyznezovih 98
+Shamaevish 99
+Kipovih 100
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
+
+
